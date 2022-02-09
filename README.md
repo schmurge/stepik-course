@@ -1,2 +1,2 @@
 # stepik-course
-The
+This file is required to learn git
